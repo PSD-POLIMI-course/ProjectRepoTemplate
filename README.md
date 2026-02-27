@@ -1,4 +1,7 @@
 # DigiRent
+This is the description of the process required for the project to be delivered before the Autumn session 2026.
+
+## Case study description
 The real estate agency DigiRent intends to digitalize its summer apartment search and rental process. The process involves the following actors:
 
 * DigiRent
@@ -22,4 +25,41 @@ The process design must explicitly address the following constraints and scenari
 4. DigiRent engages commercial partners only if negotiations regarding internally managed apartments are unsuccessful (mandatory for groups of two or three members; optional for individuals).
 5. The number of commercial partners to be contacted depends on the requested location (mandatory for groups of three members; optional for individuals and groups of two).
 6. Payment must be processed through a banking service acting as an intermediary between DigiRent and the apartment owner (mandatory for groups of three members; optional for individuals and groups of two).
+
+
+
+
+## Project delivery sample
+
+Description of the process compliant with the case study description above
+
+## Members of the group:
+* member A (Firstname, Lastname, Person Code) 
+* member B (Firstname, Lastname, Person Code)
+* member C (Firstname, Lastname, Person Code)
+
+## Choreographed process
+Short description of the choreographed process
+
+place here an image of the BPMN Choreography diagram
+
+
+## Collaboration Diagram
+
+place here an image of the BPMN Collaboration diagram, where the only white box is for the DigiRent, the others will be black-boxes
+
+## Petri Net
+
+place here the image of the PetriNet corresponding to the Baby360 executable model
+
+# Third party services
+
+List of the third party services that corresponds to the black boxes in the collaboration diagram
+
+## Executable process
+
+Place here an image of the BPMN diagram corresponding to the executable model of the DigiRent process
+
+
+
 
