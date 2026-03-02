@@ -26,12 +26,12 @@ The process design must explicitly address the following constraints and scenari
 5. The number of commercial partners to be contacted depends on the requested location (mandatory for groups of three members; optional for individuals and groups of two).
 6. Payment must be processed through a banking service acting as an intermediary between DigiRent and the apartment owner (mandatory for groups of three members; optional for individuals and groups of two).
 
-## general information
+## General information
 
 If you want to do your project you must:
 * As soon as the members of the group is defined create a *private* repo with the same structure in your github account. You can clone this one
 * Send the link of the repo to pierluigi.plebani@polimi.it
-* Keep your repo updated at least according to the deadlines indicated below
+* Keep your repo updated, at least according to the deadlines indicated below
 * Comments to your work will be uploaded under the 'issues'
 
 ## Delivery dates
